@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\KlaseObjekt\bin\Debug\KlaseObjekt.exe.config
+C:\Users\korisnik\source\repos\KlaseObjekt\bin\Debug\KlaseObjekt.exe
+C:\Users\korisnik\source\repos\KlaseObjekt\bin\Debug\KlaseObjekt.pdb
+C:\Users\korisnik\source\repos\KlaseObjekt\obj\Debug\KlaseObjekt.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\KlaseObjekt\obj\Debug\KlaseObjekt.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\KlaseObjekt\obj\Debug\KlaseObjekt.exe
+C:\Users\korisnik\source\repos\KlaseObjekt\obj\Debug\KlaseObjekt.pdb
